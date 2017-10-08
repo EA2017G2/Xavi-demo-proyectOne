@@ -1,3 +1,6 @@
+La parte de la Api no funciona en este proyecto, solo sirve para ver el funcionamiento de los componentes padre-hijo, pipes, directivas...
+
+
 # ProyectOne
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
